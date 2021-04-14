@@ -1577,10 +1577,10 @@
     serve-static "^1.14.1"
     workbox-cdn "^5.1.4"
 
-"@nuxtjs/sanity@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.9.0.tgz#2aac451d1d98e40c9baadd477d4b258dbc9032bf"
-  integrity sha512-N6yPsP7SNu1MzwvcjDXGHSXFJb9da0Efr2kp9EuDy10tjY8KXSa6Q6UX2GL8whXdfWXl2uGoJmJKVfsoHRwigg==
+"@nuxtjs/sanity@^0.9.1":
+  version "0.9.1"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.9.1.tgz#e947156edad7b8d49a95502b4f9a4573380dbade"
+  integrity sha512-aidYFgXiU3Z12khp6CI+K2JN6rBvvnETMA7ZT2iScRSREn3VD9jW8l4cLUYop9UwjunkSgE3mr17c/mAKqzTQQ==
   dependencies:
     chalk "4.1.0"
     consola "2.15.3"
