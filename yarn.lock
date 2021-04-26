@@ -1577,12 +1577,12 @@
     serve-static "^1.14.1"
     workbox-cdn "^5.1.4"
 
-"@nuxtjs/sanity@^0.9.0":
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.9.0.tgz#2aac451d1d98e40c9baadd477d4b258dbc9032bf"
-  integrity sha512-N6yPsP7SNu1MzwvcjDXGHSXFJb9da0Efr2kp9EuDy10tjY8KXSa6Q6UX2GL8whXdfWXl2uGoJmJKVfsoHRwigg==
+"@nuxtjs/sanity@^0.9.2":
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.9.2.tgz#8df1ff5412b6ded2d90d08334a5342af897d5c81"
+  integrity sha512-RdYQWSEpvQEsMNfaBiLXZU4QOfVhNot5YReUKrinHGYA0Ml179VbXSNeH3rHDet7PtRB9SxmFGnIDCPAYL/M5A==
   dependencies:
-    chalk "4.1.0"
+    chalk "4.1.1"
     consola "2.15.3"
     defu "3.2.2"
     fs-extra "9.1.0"
@@ -3358,10 +3358,10 @@ ccount@^1.0.0:
   resolved "https://registry.yarnpkg.com/ccount/-/ccount-1.1.0.tgz#246687debb6014735131be8abab2d93898f8d043"
   integrity sha512-vlNK021QdI7PNeiUh/lKkC/mNHHfV0m/Ad5JoI0TYtlBnJAslM/JIkm/tGC88bkLIwO6OQ5uV6ztS6kVAtCDlg==
 
-chalk@4.1.0, chalk@^4.0.0, chalk@^4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.0.tgz#4e14870a618d9e2edd97dd8345fd9d9dc315646a"
-  integrity sha512-qwx12AxXe2Q5xQ43Ac//I6v5aXTipYrSESdOgzrN+9XjgEpyjpKuvSGaN4qE93f7TQTlerQQ8S+EQ0EyDoVL1A==
+chalk@4.1.1, chalk@^4.0.0, chalk@^4.1.0:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-4.1.1.tgz#c80b3fab28bf6371e6863325eee67e618b77e6ad"
+  integrity sha512-diHzdDKxcU+bAsUboHLPEDQiw0qEe0qd7SYUn3HgcFlWgbDcfLGswOHYeGrHKzG9z6UYf01d9VFMfZxPM1xZSg==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
