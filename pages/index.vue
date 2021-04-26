@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        My Blog
+        My Blog Atualizado
       </h1>
     </div>
     <div class="posts">
