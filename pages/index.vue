@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <h1 class="title">
-        My Blog Atualizado
+        Built with tests
       </h1>
     </div>
     <div class="posts">
