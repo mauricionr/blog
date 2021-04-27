@@ -24,9 +24,12 @@ export default {
     SanityImage
   },
   async asyncData({ params, $sanity }) {
+    console.log(params)
     const query = groq`*[_type == "post" && slug.current == "${params.slug}"]`
     const post = await $sanity.fetch(query)
-    return { post: post[0] }
+    const response = { post: post[0] }
+    console.log(response)
+    return response
   }
 }
 </script>
