@@ -1,6 +1,7 @@
 <template>
   <div>
     <Nuxt />
+    <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "15e654e8172a4b98b2143a067d922a01"}'></script>
   </div>
 </template>
 
