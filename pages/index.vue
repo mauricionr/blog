@@ -14,6 +14,7 @@
         <div class="summary" v-if="post">
           <SanityContent :blocks="[post.body[0]]" />
         </div>
+        <small v-text="post.publishedAt" />
         <hr />
       </div>
     </div>
@@ -31,7 +32,7 @@ export default {
     SanityImage
   },
   async asyncData({ $sanity }) {
-    const query = groq`*[_type == "post"]`
+    const query = groq`*[_type == "post"]|order(_createdAt desc, title)`
     const posts = await $sanity.fetch(query)
     return { posts }
   },
