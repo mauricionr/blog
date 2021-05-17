@@ -1577,14 +1577,14 @@
     serve-static "^1.14.1"
     workbox-cdn "^5.1.4"
 
-"@nuxtjs/sanity@^0.9.2":
-  version "0.9.2"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.9.2.tgz#8df1ff5412b6ded2d90d08334a5342af897d5c81"
-  integrity sha512-RdYQWSEpvQEsMNfaBiLXZU4QOfVhNot5YReUKrinHGYA0Ml179VbXSNeH3rHDet7PtRB9SxmFGnIDCPAYL/M5A==
+"@nuxtjs/sanity@^0.9.4":
+  version "0.9.4"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/sanity/-/sanity-0.9.4.tgz#3c4f37c19db94f027ced7100f879218bc052f9f7"
+  integrity sha512-Dr4/WHpumPtGNYL4X+wLRoukAP2w3z2+jrEE5F0RmR1XP7iirDYF+B7DaLll7Lj3KHSqXFSyoWfy2PQAaOZWyA==
   dependencies:
     chalk "4.1.1"
     consola "2.15.3"
-    defu "3.2.2"
+    defu "5.0.0"
     fs-extra "9.1.0"
     upath "2.0.1"
 
@@ -4375,15 +4375,20 @@ defined@^1.0.0:
   resolved "https://registry.yarnpkg.com/defined/-/defined-1.0.0.tgz#c98d9bcef75674188e110969151199e39b1fa693"
   integrity sha1-yY2bzvdWdBiOEQlpFRGZ45sfppM=
 
-defu@3.2.2, defu@^3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/defu/-/defu-3.2.2.tgz#be20f4cc49b9805d54ee6b610658d53894942e97"
-  integrity sha512-8UWj5lNv7HD+kB0e9w77Z7TdQlbUYDVWqITLHNqFIn6khrNHv5WQo38Dcm1f6HeNyZf0U7UbPf6WeZDSdCzGDQ==
+defu@5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/defu/-/defu-5.0.0.tgz#5768f0d402a555bfc4c267246b20f82ce8b5a10b"
+  integrity sha512-VHg73EDeRXlu7oYWRmmrNp/nl7QkdXUxkQQKig0Zk8daNmm84AbGoC8Be6/VVLJEKxn12hR0UBmz8O+xQiAPKQ==
 
 defu@^2.0.4:
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/defu/-/defu-2.0.4.tgz#09659a6e87a8fd7178be13bd43e9357ebf6d1c46"
   integrity sha512-G9pEH1UUMxShy6syWk01VQSRVs3CDWtlxtZu7A+NyqjxaCA4gSlWAKDBx6QiUEKezqS8+DUlXLI14Fp05Hmpwg==
+
+defu@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/defu/-/defu-3.2.2.tgz#be20f4cc49b9805d54ee6b610658d53894942e97"
+  integrity sha512-8UWj5lNv7HD+kB0e9w77Z7TdQlbUYDVWqITLHNqFIn6khrNHv5WQo38Dcm1f6HeNyZf0U7UbPf6WeZDSdCzGDQ==
 
 delayed-stream@~1.0.0:
   version "1.0.0"
