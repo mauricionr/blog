@@ -16,7 +16,7 @@
     "@nuxtjs/sanity": "^0.9.2",
     "@sanity/client": "^2.8.0",
     "core-js": "^3.11.0",
-    "nuxt": "^2.15.3",
+    "nuxt": "^2.15.7",
     "sanity-blocks-vue-component": "^1.0.0"
   },
   "devDependencies": {
