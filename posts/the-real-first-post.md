@@ -7,4 +7,4 @@ tags:
 layout: layouts/post.njk
 ---
 
-And there's nothing in it!
+And there's nothing in it *and looks like a 503 status page*!
