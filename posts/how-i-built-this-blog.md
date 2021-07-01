@@ -8,3 +8,6 @@ tags:
   - 11ty
 layout: layouts/post.njk
 ---
+
+1. Create an cloudflare account
+2. Setup cloudflare credentials
